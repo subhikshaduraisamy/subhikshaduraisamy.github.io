@@ -1,1 +1,17 @@
+---
+title: "Sequencing technologies"
+author: "Subhiksha"
+date: 09-11-2026
+output: html_document
+---
 
+# **What is sequencing?**
+
+
+# **Sequencing techniques over the years**
+
+
+#**Seqeuncing platforms**
+
+
+# **Few techincal terminologies**
